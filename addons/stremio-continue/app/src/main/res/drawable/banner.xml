@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The TV banner: a play mark over a progress bar on a violet field. Drawn for this add-on, no third-party art. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#FF1B1433" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#FF7B5BF5" android:pathData="M138,56L138,112L186,84Z" />
+    <path android:fillColor="#FF3A2E66" android:pathData="M70,138h180v8h-180z" />
+    <path android:fillColor="#FFB9A6FF" android:pathData="M70,138h112v8h-112z" />
+</vector>
