@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Continue Watching</string>
+    <string name="title">Continue Watching</string>
+    <string name="open_stremio">Open Stremio</string>
+    <string name="empty">Nothing to continue. Start something in Stremio and it shows up here.</string>
+    <string name="no_permission">Can\'t read Stremio\'s rows yet. Grant access once from a computer:\npm grant io.github.nitzzzu.stremiocontinue android.permission.READ_TV_LISTINGS</string>
+    <string name="no_stremio">Stremio is not installed.</string>
+    <string name="left">%1$d min left</string>
+</resources>
